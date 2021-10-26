@@ -1,1 +1,1 @@
-tsc ./ts/serviceSelector.ts --outDir ./js
+tsc ./ts/serviceSelector.ts ./ts/schoolSelector.ts ./ts/technologiaSelector.ts ./ts/allaSelector.ts --outDir ./js
