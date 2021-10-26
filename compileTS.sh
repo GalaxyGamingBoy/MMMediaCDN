@@ -1,0 +1,1 @@
+tsc ./ts/serviceSelector.ts --outDir ./js
