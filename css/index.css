@@ -1,0 +1,9 @@
+.rainbowBG {
+    background: linear-gradient(90deg, rgba(226, 51, 152, 1) 10%, rgba(0, 212, 255, 1) 100%);
+}
+
+.outBox {
+    margin-top: 35vh;
+    width: 320px;
+    height: 320px;
+}
