@@ -12,7 +12,7 @@ documentBTN20211025.addEventListener("click", () => {
 
 documentBTN20211128.addEventListener("click", () => {
   console.log("documentBTN20211128 Clicked!");
-  window.open("Documents/Technologia/20211128.html", "_self");
+  window.open("Services/Classes/Documents/Technologia/20211128.html", "_self");
 });
 
 console.log("technologiaSelector Script loaded!");
